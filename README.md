@@ -5,10 +5,10 @@
 
 ## Proof of Concept Overview
 This repository serves as a technical demonstration for a Software Design course. It verifies that the following core technologies are integrated and operational:
-* [cite_start]**Frontend:** React.js 18 (Vite) [cite: 51]
-* [cite_start]**Backend/Database:** Firebase Firestore [cite: 52]
-* [cite_start]**Authentication:** Firebase Auth (for .edu verification) and Steam OpenID [cite: 53]
-* [cite_start]**External API:** Steam Web API [cite: 54]
+* **Frontend:** React.js 18 (Vite).
+* **Backend/Database:** Firebase Firestore.
+* **Authentication:** Firebase Auth (for .edu verification) and Steam OpenID.
+* **External API:** Steam Web API.
 
 ## Environment Specifications
 To ensure this project compiles and runs correctly, use the following environment:
