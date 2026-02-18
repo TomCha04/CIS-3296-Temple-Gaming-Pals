@@ -22,5 +22,5 @@ Follow these steps to launch the Proof of Concept locally:
 
 1. **Clone the Repository:**
    ```bash
-   git clone [YOUR_REPOSITORY_URL_HERE]
+   git clone https://github.com/TomCha04/CIS-3296-Temple-Gaming-Pals
    cd temple-gaming-pals-poc
